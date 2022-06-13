@@ -33,6 +33,36 @@ header{
 .b_img{
 	padding: 0;
 }
+/*feature start*/
+.feature{
+	padding-bottom: 60px;
+} 
+/*course start*/
+.course{
+	padding-bottom: 80px;
+}
+.c_item{
+	margin-top: 40px;
+	padding: 20px 25px 20px
+}
+.c_item h2{
+	margin: 15px 0 0;
+}
+.c_item a{
+	margin: 15px 0 15px;
+}
+.date ul li img{
+	width: 14px;
+}
+.date ul li span{
+	font-size: 13px;
+}
+.seat ul li img{
+	width: 16px;
+}
+.seat ul li span{
+	font-size: 13px;
+}
 }
 
 /*Small devices (landscape phones, 576px and up)*/
@@ -68,6 +98,24 @@ header{
 .b_img{
 	padding: 0 100px;
 }
+/*feature start*/
+.feature{
+	padding-bottom: 60px;
+}
+/*course start*/
+.course{
+	padding-bottom: 80px;
+}
+.c_item{
+	margin-top: 40px;
+	padding: 25px 92px 30px;
+}
+.c_item h2{
+	margin: 15px 0 0;
+}
+.c_item a{
+	margin: 15px 0 15px;
+}
 }
 
  /*Medium devices (tablets, 768px and up)*/
@@ -101,6 +149,18 @@ header{
 .b_img{
 	padding: 0 100px;
 }
+/*feature start*/
+.feature{
+	padding-bottom: 80px;
+}
+/*course start*/
+.course{
+	padding-bottom: 80px;
+}
+.c_item{
+	margin-top: 40px;
+	padding: 25px 180px 30px;
+}
 
 }
 
@@ -111,6 +171,22 @@ header{
 .b_h1{
    font-size: 40px;
    padding-right: 44px;
+}
+/*course start*/
+.c_item{
+	padding: 15px 15px 20px;
+}
+.date ul li img{
+	width: 14px;
+}
+.date ul li span{
+	font-size: 14px;
+}
+.seat ul li img{
+	width: 16px;
+}
+.seat ul li span{
+	font-size: 14px;
 }
 }
 
